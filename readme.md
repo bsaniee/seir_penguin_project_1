@@ -14,4 +14,6 @@ Explain what your project is here, and what it does etc.
 #### Example Table
 
 | Column1 | Column2 |
-| Thing1 | Thing2 |
+|---------|---------|
+| thing1 | thing2 |
+| yadda1 | yadda2 |
