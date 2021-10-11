@@ -10,3 +10,8 @@ Explain what your project is here, and what it does etc.
 - CSS
 - JS
 - jQuery
+
+#### Example Table
+
+| Column1 | Column2 |
+| Thing1 | Thing2 |
