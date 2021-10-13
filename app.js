@@ -26,13 +26,18 @@ const chooseAnswer = function(event, question) {
     if(event.target.innerText === question.answer) {
         if (state.which) {
             state.player1++
+            alert("Correct!")
             state.which = !state.which
         }
-        else {state.player2++
+        else {
+        alert("Correct")
+        state.player2++
         state.which = !state.which}
         setBoard(questions)
     }
-    else {setBoard(questions)
+    else {
+    alert("Incorrect")
+    setBoard(questions)
     state.which = !state.which}
 }
 
