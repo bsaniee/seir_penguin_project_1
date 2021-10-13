@@ -3,9 +3,10 @@
 
 ## Introduction
 
-Explain what your project is here, and what it does etc.
+Project 1 of General Assembly's Software Engineering Immersive involves
+constructing a browser Trivia Game. 
 
-# Technologies Used
+# Technologies Used for this Project
 - HTML
 - CSS
 - JS
