@@ -1,13 +1,22 @@
 /*Heading
 */
+
+body {
+    background-image: url("https://i.pinimg.com/originals/fb/2f/9e/fb2f9e980965dc47768c6348375a3d72.jpg");
+    background-position: cover;
+   }
+
 h1 {
+    background-color: grey;
+    width: 50%;
+    margin: auto;
     text-align: center;
     color: maroon;
 }
 
 #question {
     width: 70%;
-    padding: 30px;
+    padding: 20px;
     border: 3px solid green;
     background-color: darkolivegreen;
     font-size: 28px;
