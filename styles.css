@@ -12,6 +12,7 @@ h1 {
     margin: auto;
     text-align: center;
     color: maroon;
+    border-radius: 25px;
 }
 
 #question {
@@ -20,8 +21,12 @@ h1 {
     border: 3px solid green;
     background-color: darkolivegreen;
     font-size: 28px;
-    font-family: 'lucida sans';
+    font-style: italic;
+    font-family: serif;
     margin: 10px auto;
+    text-align: center;
+    border-radius: 25px;
+
 }
 
 /*Answer
@@ -36,6 +41,7 @@ h1 {
     justify-content: center;
     align-items: center;
     padding: 20px;
+    border-radius: 25px;
 }
 
 #answer ul {
@@ -49,12 +55,14 @@ h1 {
 
 #answer ul li {
     width: 40%;
-    height: 40px;
+    height: 60px;
     background-color: orange;
     padding: 10px;
     text-align: center;
-    margin: 5px;
+    margin: 50px auto;
     font-weight: bolder;
+    border-radius: 25px;
+
 }
 
 /*Scoreboard
@@ -66,6 +74,7 @@ h1 {
     background-color: darkslategrey;
     justify-content: center;
     margin: 10px auto;
+    border-radius: 25px;
 }
 
 #player1, #player2 {
@@ -73,4 +82,5 @@ h1 {
     background-color: chocolate;
     margin: 5px;
     text-align: center;
+    border-style:groove
 }
