@@ -57,12 +57,16 @@ h1 {
     width: 40%;
     height: 60px;
     background-color: orange;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     margin: 50px auto;
     font-weight: bolder;
     border-radius: 25px;
 
+}
+
+#answer ul li:hover {
+    background-color: black;
 }
 
 /*Scoreboard
