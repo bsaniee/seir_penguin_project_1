@@ -13,7 +13,8 @@ h1 {
     text-align: center;
     color: maroon;
     border-radius: 25px;
-    border-style:ridge
+    border-style:ridge;
+    font-style: bold;
 }
 
 #question {
