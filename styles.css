@@ -13,6 +13,7 @@ h1 {
     text-align: center;
     color: maroon;
     border-radius: 25px;
+    border-style:ridge
 }
 
 #question {
@@ -42,6 +43,7 @@ h1 {
     align-items: center;
     padding: 20px;
     border-radius: 25px;
+    border-style:dashed
 }
 
 #answer ul {
@@ -57,11 +59,13 @@ h1 {
     width: 40%;
     height: 60px;
     background-color: orange;
+    background: cover;
     padding: 20px;
     text-align: center;
     margin: 50px auto;
     font-weight: bolder;
     border-radius: 25px;
+    border-style: groove;
 
 }
 
@@ -79,6 +83,7 @@ h1 {
     justify-content: center;
     margin: 10px auto;
     border-radius: 25px;
+    border-style:inset;
 }
 
 #player1, #player2 {
@@ -86,5 +91,5 @@ h1 {
     background-color: chocolate;
     margin: 5px;
     text-align: center;
-    border-style:groove
+    border-style: groove;
 }

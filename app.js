@@ -47,10 +47,10 @@ const setBoard = function(q) {
 //update question
     $question.text(randomQuestion.question)
     $a.text(randomQuestion.answerA)
-    $b.text(randomQuestion.answer)
-    $c.text(randomQuestion.answerB)
+    $b.text(randomQuestion.answerB)
+    $c.text(randomQuestion.answerC)
     $d.text(randomQuestion.answerD)
-    $e.text(randomQuestion.answerC)
+    
 
     //update player score$
     $p1score.text(state.player1)
